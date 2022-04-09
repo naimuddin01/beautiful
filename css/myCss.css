@@ -1,0 +1,92 @@
+h1{
+    color: chartreuse;
+    background-color: aquamarine;
+    height: 70px;
+    text-align: center;
+
+    
+}
+p{
+    color: rgb(118, 56, 45);
+    
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#needId{
+    color: burlywood;
+    font-size: 30px;
+}
+#IdClass{
+    color: rgb(24, 16, 16);
+    background-color: rgb(37, 186, 64);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.importent{ 
+    color: brown;
+
+    background-color: rgb(7, 77, 77);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.manyTag{
+    color: rgb(137, 109, 109);
+    background-color: rgb(200, 187, 125);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.OneClass{
+    color: rgb(212, 170, 170);
+    background-color: rgb(7, 77, 77);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.manyClass{
+    color: rgb(171, 42, 141);
+    background-color: rgb(29, 134, 134);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p.manyClass{
+    width: 70%;
+    height: 70px;
+}
+h5.manyTag{
+    width: 70%;
+    height: 70px;
+}
+.Class{
+    color: brown;
+    background-color: rgb(67, 174, 174);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h5{
+    color: rgb(24, 152, 166);
+}
+
+li{
+    color: brown;
+}
+img{
+    width: 30%;
+
+}
+
+.blog{
+   border: 5px solid red;
+   border-radius: 10px;
+   margin: 2px;
+   margin-bottom: 30px;
+   padding: 10px;
+   width: 27%;
+   height: 500px;
+   display: inline-block;
+}
+
+
+.span{
+    color: red;
+}
